@@ -2,6 +2,7 @@
 - 👀 I’m interested in graphic design, web dev, and AI.
 - 🌱 Feel free to visit my most recent projects below (some were completed a while ago but were recently uploaded to Github)
 - 💞️ I’m looking to collaborate on cool programming projects:)
+- <b>IMPORTANT</b>
 - 📫 My public/other Github account is @TheClassicTechno (contains older projects).
 
 <!---
