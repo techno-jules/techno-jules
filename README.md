@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on cool programming projects:)
 - <b>IMPORTANT: STANFORD CLASS PROJECTS DO NOT ALLOW STUDENTS TO SHARE CODE ON GITHUB PUBLICLY. (except CS109 final project challenge:))</b>
 - 📫 My public/other Github account is @TheClassicTechno (contains older projects).
+- https://github.com/TheClassicTechno
 
 <!---
 techno-jules/techno-jules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
