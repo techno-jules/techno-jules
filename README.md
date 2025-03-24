@@ -1,4 +1,5 @@
 👋 Hi! I'm Julia (Juli)! <br>
+**@TheClassicTechno is my second profile for other projects!** <br>
 👀 I'm passionate about creating software, finance, and ai projects.  <br>
 🌱 I love building up skills, whether it's in coding, math, chess, or poker.  <br>
 💞️ I love to collaborate on cool programming projects! :))  <br>
