@@ -1,10 +1,8 @@
-- 👋 Hi! I’m @techno-jules/Julia.
-- 👀 I’m interested in graphic design, web dev, and AI.
-- 🌱 Feel free to visit my most recent projects below (some were completed a while ago but were recently uploaded to Github)
-- 💞️ I’m looking to collaborate on cool programming projects:)
-- <b>IMPORTANT: STANFORD CLASS PROJECTS DO NOT ALLOW STUDENTS TO SHARE CODE ON GITHUB PUBLICLY. (except CS109 final project challenge:))</b>
-- 📫 My public/other Github account is @TheClassicTechno (contains older projects).
-- https://github.com/TheClassicTechno
+👋 Hi! I'm Julia (Juli)!
+👀 I'm passionate about creating software, finance, and ai projects.
+🌱 I love building up skills, whether it's in coding, math, chess, or poker.
+💞️ I love to collaborate on cool programming projects! :))
+🌟 Fun fact: I have a passion for fruits (not related to Passionfruit by Drake)
 
 <!---
 techno-jules/techno-jules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
