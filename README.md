@@ -1,7 +1,7 @@
-👋 Hi! I'm Julia (Juli)!
-👀 I'm passionate about creating software, finance, and ai projects.
-🌱 I love building up skills, whether it's in coding, math, chess, or poker.
-💞️ I love to collaborate on cool programming projects! :))
+👋 Hi! I'm Julia (Juli)! <br>
+👀 I'm passionate about creating software, finance, and ai projects.  <br>
+🌱 I love building up skills, whether it's in coding, math, chess, or poker.  <br>
+💞️ I love to collaborate on cool programming projects! :))  <br>
 🌟 Fun fact: I have a passion for fruits (not related to Passionfruit by Drake)
 
 <!---
